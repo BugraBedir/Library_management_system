@@ -1,0 +1,23 @@
+	Imagine being able to confidently communicate with people from any part of the world. Picture yourself traveling to new regions and immersing yourself in different cultures without the frustration of a language barrier. Learning a new language has the power to bridge the gap between cultures and unlock a world of opportunities. In today's globalized world, it is essential to be able to communicate effectively with individuals from diverse backgrounds. By learning a new language, we do not only broaden our horizons but also enhance our thinking abilities and boost our self-confidence. 
+
+	We have spent a significant amount of time researching and creating a new language learning application that we think will revolutionize language teaching. Our team is made up of professionals in language learning and computer technology. Starting off with me, I'm Buğra. I have undergrad degree from the University of Cambridge and spent many many years on instruction techniques. I make sure that every element of the programs curriculum is carefully planned to maximize language learning. We have Omar, who graduated from Cornell and spent his five years at our competitor language learing platform called Rosetta Stone. During his time in Rosetta Stone he developed different kinds of approaches and methods on instructing different levels of proficiency. Abdul Mustafa got his bachelor's degree from the MIT. He is a very skillful engineer with more than a decade long experience in the IT sector.
+Mustafa has created the backbone of our dreams with his programming knowledge. Şükrü is responsible for making the education platform more engaging with his design ideas. He studied on educational psychology at California Tech.
+
+	Now, we will explain the technical details of our platform and why such an application is necessary, also why you should invest in this language learning application.
+Based on our study of the market, although several actions were taken to improve language learning however there's still needs that weren't satisfied yet such as : lack of affordable language learning options, in addition inability to customize language learning programs to fit individual needs and learning styles.
+In a survey conducted by the European Commission, it was found that language courses were often perceived as too expensive by Europeans, with 65% of respondents stating that cost was a barrier to language learning. A study conducted by the National Foreign Language Center at the University of Maryland found that cost was a significant challange to language learning, particularly for low-income students and those in rural areas with limited access to language classes. In a review article published in the journal Language Learning & Technology, the authors noted that while Rosetta Stone was an effective language learning tool, its high cost could be a barrier to access for many learners. The article suggested that more affordable and accessible language learning options were needed to reach a wider audience.
+	
+	In a study by Reinders at Anaheim University, it was found that traditional language learning methods often lack flexibility and do not allow for customization to meet individual needs and learning styles. Like sometimes traditional language learning methods, provide limited feedback to learners, which will slow their progress, and don't offer them enough resources to practice. In a review conducted by a digital magazine Macworld, Rosetta Stone did not offer much in terms of customizability, and that the software's one dimensional approach may not be ideal for everyone. 
+
+ATLAYABİLİRSİN!!!
+In a another study, it was found that traditional language learning methods often neglect the importance of individual learner differences, such as learning style and motivation, which can lead to ineffective language learning outcomes, such as wasted time and money in addition to learners' discouragement.
+ATLAYABİLİRSİN!!!
+
+
+	Now Şükrü will take over and give us a little more details on our projet. Şükrü, the stage is yours...
+
+
+	
+
+
+
